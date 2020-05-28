@@ -1,0 +1,8 @@
+Jupyter
+1. check the method API:
+    1.1 edit model,
+    1.2 put cursor inside the function
+    1.3 press shift + tab
+2. run the cell without new input line
+    2.1 edit model
+    2.2 press control + return
